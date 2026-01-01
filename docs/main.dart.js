@@ -70428,7 +70428,7 @@ A.oq.prototype={
 P(a){return A.agY(A.afK(B.NU),B.ze)}}
 A.ph.prototype={
 P(a){var s=null,r=t.W
-return A.agY(A.afK(B.O_),A.k5(A.tN(A.c([B.NX,B.Ju,A.Sj(A.tN(A.c([A.nL("hello,",s,s,s),A.nL("I am flutter Web, ",s,s,s),A.nL("Thankyou,",s,s,s)],r),B.c5,B.dK),B.M,s,s,s,s,s,s),new A.DR(new A.Wx(a),s,s,s,s,s,s,!1,s,!0,s,B.NY,s)],r),B.fe,B.dK),s,s))}}
+return A.agY(A.afK(B.O_),A.k5(A.tN(A.c([B.NY,B.Ju,A.Sj(A.tN(A.c([A.nL("hello,",s,s,s),A.nL("I am flutter Web, ",s,s,s),A.nL("Thankyou,",s,s,s)],r),B.c5,B.dK),B.M,s,s,s,s,s,s),new A.DR(new A.Wx(a),s,s,s,s,s,s,!1,s,!0,s,B.NX,s)],r),B.fe,B.dK),s,s))}}
 A.Wx.prototype={
 $0(){return A.agl(this.a).x0("/about",null)},
 $S:0}
@@ -75177,9 +75177,9 @@ B.NT=new A.eV("Home",null,null,null,null,null,null)
 B.NU=new A.eV("About Page",null,null,null,null,null,null)
 B.NV=new A.eV("Page Not Found",null,B.fW,null,null,null,null)
 B.NW=new A.eV("Page Not Found",null,null,null,null,null,null)
+B.NX=new A.eV("Go to About Page",null,null,null,null,null,null)
 B.N0=new A.r(!0,null,null,null,null,null,28,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NX=new A.eV("Welcome to Flutter ttttttt \n Free Web!!!!!!!",null,B.N0,null,null,null,null)
-B.NY=new A.eV("Go to About Page",null,null,null,null,null,null)
+B.NY=new A.eV("Welcome to Flutter tttttt  \n Free Web!!!!!!!\n******************",null,B.N0,null,null,null,null)
 B.Lq=new A.r(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NZ=new A.eV("Go to home page",null,B.Lq,null,null,null,null)
 B.O_=new A.eV("Flutter Web Home Screen",null,null,null,null,null,null)

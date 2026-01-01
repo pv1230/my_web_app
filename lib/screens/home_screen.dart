@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              "Welcome to Flutter ttttttt \n Free Web!!!!!!!",
+              "Welcome to Flutter tttttt  \n Free Web!!!!!!!\n******************",
               style: TextStyle(fontSize: 28),
             ),
             const SizedBox(height: 20),
